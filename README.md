@@ -1,3 +1,3 @@
 # ci-cd
 Dummy repo
-my read me
+my read me ok
