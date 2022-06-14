@@ -1,0 +1,4 @@
+ask_lwa_api="https://api.amazon.com"
+ask_smapi_api="https://api.amazonalexa.com"
+ask_client_id="amzn1.application-oa2-client.aad322b5faab44b980c8f87f94fbac56"
+ask_client_confirmation="1642d8869b829dda3311d6c6539f3ead55192e3fc767b9071c888e60ef151cf9"

@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "default": {
+      "token": {
+        "access_token": "Atza|IwEBIPwK7vgH_aWZkgrqMi9vrFtebDtSIqYr3JFUe2aqRHp5WP6Frx5MTEplxKrm4pvAZ_kvgS8ZidUKb1_zziL5QsfOc25Sg3WwkxXXUtnH1jVhpy94Cvp6aw0-wFT_oqCZ2Ulb2g5pNkoZlXV1eCqj8EGRQbHrd7RXyylrn7Ke01vjjXBLzyPQFPRHNIzaNd1S7iK1QAW1q1cSq33TXFqtQIl6kwE8ObkbisSZg25iOtUxnO4bmbLRnG2cDi5iU46hJUHzjXkAwYe8obH48dHv5z6Ivjfs-UJuVpe4bU01tIcCcVhQ4hoWyFOLgKcymCW7vtjbM3asZ1ugqRb9uZuATJ8S1gOnNqtjeZ51sdq9wOT93zMybDuNBuXz-YMIbXQuimedCvFO0_TO5oBhBVXSn6iGDZy--q_mSu-vnjPuxexYNrA6lIrkAqGobUezrRdiRfPaZmhPqI7WtWXhvrDpFNWZgO_sxKAF-nqdV4XXUShgPHHAzd00RSx2amXe-GrjDIGhdeC3SPDJ9_oyI8qoc8nFSDJxgoRULe2qoP8r6j8iAL5Nj98vzjs-JPrh3Wpd7pOeJ0a5jXh9ga7WlvmKQwdgdMU3Z2tPOB9HBvEs2GCbZ9KvgPrTfbgXlrSLjLjZ7lmaHsAtq8lHcicSbADG9T18VfHiOzms4BzWGB_yE4SFNMCg5Snc7QcF2TWQTytjmtFbTuTqwTc5ueoZmIQoOwHxjkGhSnsx9SEAJlWM_XfqdQ",
+        "refresh_token": "Atzr|IwEBIAMXZAVrLHK1KjRZ2YXYHDp2DUBDKnU0C90FqWiaQW2Eu5q7q_VivI2QRtpBuIuudYWTC8pVuWcP5IjyOLRJnrE3QskE_5YVLscaQ7cKokEoB-fxfjld3mGL7g6fZVdkO2vmtpY268SzA25hxj_h2aWcBjTxix44F6oy1UZDbBrKdHL_4cNAXJy7RmCnE6qXODgGL3DH1g9ssJo1yNAeaCKAI9Luf-YDT2pfEWRRmyEWYNYSoGhE4YDv5y4FZCpSia2nI-NHxyzjTJDkKGfzRMhZvnXr6DFpbxW_cRPtdTMw5jqxoutylecN9k90QubmfFlZZa73FEBjN8o0fePiCulZ33issEPbfhs0fugUZf5k7GGzflCnFTm53HM2wcXOz6ew9RiI65VeCCw4_5wpyXiReO0fPrEKE6pHHntrmrWiL1UwYJAeRVJlRnbbBTOjH8wWBvZmn6aifX_ERcQqebFok53uT_gBNt9zzvR0nAD4iZSI5i3vbbYm9J4jd9FrCTNNr82HXZnH4550486mw_VXBKgMqUAVeCkkf2pCmd_mGlF2FsxYyjjROC2Xnuxo4nmHsPjC08QSTmYrfSaU3WDj3LR4Sclk-5tZicmDkvFqZYsFQiOkDlwp6Ze_YwvfSOCDpWYOWQ3I1n4fIB6pp5_BraQ2qgdEreGexjrUQOIJwaumKz1HwlHaJkV7SNj0DmsUikaYySgZUJAZXfKOvGl8",
+        "token_type": "bearer",
+        "expires_in": 3600,
+        "expires_at": "2022-06-13T09:22:05.379Z"
+      },
+      "vendor_id": "MXHCY1EDM47SO",
+      "aws_profile": "default"
+    }
+  },
+  "machine_id": "fae93a43-f1b7-4bca-b476-8dfb1727e4dc"
+}
